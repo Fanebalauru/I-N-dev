@@ -1,5 +1,5 @@
 # I&N-DEV:SilentSignal
-Team: I&D-DEV
+Team: I&N-DEV
 
 Students: *Nere Costin & Ionescu Stefan*
 
