@@ -9,8 +9,8 @@ Technology: **React Native, Expo, Supabase**
 
 Language: **English & Romanian**
 
-Demo:    **[View Demo](https://youtu.be/jOWM5gqNrWk)**
+Demo:    **[View Demo]()**
 
-Pitch:    **[View Pitch](https://youtu.be/5VLh-XgOvQ8)**
+Pitch:    **[View Pitch]()**
 
  
