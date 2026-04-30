@@ -3,7 +3,7 @@ Team: I&N-DEV
 
 Students: *Nere Costin & Ionescu Stefan*
 
-School: **Colegiul National Mircea cel Batran**
+School: **Colegiul National "Mircea cel Batran" Constanta**
 
 Technology: **React Native, Expo, Supabase**
 
