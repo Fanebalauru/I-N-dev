@@ -11,6 +11,6 @@ Language: **English & Romanian**
 
 Demo:    **[View Demo]()**
 
-Pitch:    **[View Pitch]()**
+Pitch:    **[View Pitch](https://drive.google.com/file/d/1SHYaBaZFGpXGP4ybvnyQt1COvof7W8Mv/view?usp=sharing)**
 
  
